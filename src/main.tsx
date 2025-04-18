@@ -1,12 +1,16 @@
-import { StrictMode } from "react";
-import { createRoot } from "react-dom/client";
-import "./styles/global.css"; // Import Tailwind CSS
-import App from "./App";
+import { StrictMode } from 'react'
+import { createRoot } from 'react-dom/client'
+import { RouterProvider, createRouter } from '@tanstack/react-router'
+import { routeTree } from './routeTree.gen'
+import './styles/global.css'
+import { ThemeProvider } from './components/providers/theme-provider'
 
-const container = document.getElementById("root")!;
-const root = createRoot(container);
-root.render(
+const router = createRouter({ routeTree })
+
+createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <App />
+    <ThemeProvider defaultTheme='light' storageKey='vite-ui-theme'>
+      <RouterProvider router={router} />
+    </ThemeProvider>
   </StrictMode>
-);
+)
