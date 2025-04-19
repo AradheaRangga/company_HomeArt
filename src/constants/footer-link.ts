@@ -3,20 +3,20 @@ const FOOTER_LINKS = {
     title: 'Informasi',
     links: [
       { label: 'Home', href: '/' },
-      { label: 'Our Services', href: '/#our-services' },
-      { label: 'About Us', href: '/#about-us' },
-      { label: 'Our Partner', href: '/#our-partner' },
-      { label: 'Contact Us', href: '/#contact-us' },
+      { label: 'Our Services', href: '#our-services' },
+      { label: 'About Us', href: '#about-us' },
+      { label: 'Our Partner', href: '#our-partner' },
+      { label: 'Contact Us', href: '#contact-us' },
     ],
   },
   connectWithUs: {
     title: 'Terhubung Bersama Kami',
     links: [
       {
-        label: 'TikTok',
+        label: 'Facebook',
         href: 'https://www.tiktok.com/@vendorlanyardsurabaya',
-        icon: '/svgs/icons/tiktok.svg',
-        alt: 'tiktok-icon',
+        icon: '/svgs/icons/facebook.svg',
+        alt: 'facebook-icon',
       },
       {
         label: 'Instagram',
@@ -31,10 +31,6 @@ const FOOTER_LINKS = {
         alt: 'Whatsapp-icon',
       },
     ],
-  },
-  company: {
-    title: 'Lainnya',
-    links: [{ label: 'Kontak', href: '/kontak' }],
   },
 }
 

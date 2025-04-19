@@ -97,7 +97,7 @@ const LOGOS = [
   },
   {
     name: 'UNIVERSITAS JEMBER',
-    img: '/clients/UNEJ.png', 
+    img: '/clients/UNEJ.png',
   },
   {
     name: 'UNIVERSITAS 17 AGUSTUS 1945 SURABAYA',

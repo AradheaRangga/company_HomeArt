@@ -1,6 +1,5 @@
-import { MapPin, Phone, Mail } from 'lucide-react'
-import MaxWidthWrapper from '@/components/global/max-width-wrapper'
 import AnimationContainer from '@/components/global/animation-container'
+import MaxWidthWrapper from '@/components/global/max-width-wrapper'
 
 function AboutUs() {
   return (

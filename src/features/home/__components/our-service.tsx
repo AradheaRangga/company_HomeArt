@@ -1,6 +1,5 @@
 import { useState } from 'react'
-import { Link } from '@tanstack/react-router'
-import { ArrowRight, IdCard, Omega, Tally1 } from 'lucide-react'
+import { IdCard, Omega, Tally1 } from 'lucide-react'
 import { Button } from '@/components/ui/shadcn/button'
 import AnimationContainer from '@/components/global/animation-container'
 import MaxWidthWrapper from '@/components/global/max-width-wrapper'
@@ -27,7 +26,8 @@ function OurServices() {
             </h2>
             <p className='mb-9 max-w-md text-center text-base font-normal leading-relaxed text-muted-foreground'>
               We don't just sell products—we provide complete solutions for your
-              event identity and branding needs with Fast Production, Best Quality and Affordable Price.
+              event identity and branding needs with Fast Production, Best
+              Quality and Affordable Price.
             </p>
           </div>
           <div className='grid grid-cols-1 gap-8 md:grid-cols-3'>
