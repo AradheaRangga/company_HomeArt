@@ -35,8 +35,7 @@ function OurPartner() {
               OUR CLIENT
             </h2>
             <p className='mb-9 max-w-md text-center text-base font-normal leading-relaxed text-muted-foreground'>
-              We don't just sell products—we provide complete solutions for your
-              event identity and branding needs.
+            Trusted by clients from various industries, their support drives us to keep delivering the best service and creative solutions.
             </p>
           </div>
 

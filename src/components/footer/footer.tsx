@@ -34,9 +34,8 @@ const Footer = () => {
                   untuk kebutuhan identitas dan branding acara Anda.
                 </p>
                 <p className='mt-4 text-start text-sm font-light text-foreground'>
-                  Jalan Embong Malang Nomor 1-5, Kelurahan Kedungdoro, Kec.
-                  Tegalsari, Kota Surabaya, Provinsi Jawa Timur, +6281931633594,
-                  contact@homeartcreative.id
+                Ruko Ketintang Jetis Sraten Park, Jl. Ketintang Baru Sel. I No. 33, Kota Surabaya, Provinsi Jawa Timur, +6281938215569,
+                  contact homeartcreative@gmail.com
                 </p>
               </div>
 

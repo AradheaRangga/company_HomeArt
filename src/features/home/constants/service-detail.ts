@@ -5,11 +5,11 @@ const SERVICE_DETAILS = [
     description:
       'Lanyard kami dirancang dengan kualitas premium, menawarkan desain kustom yang mencerminkan identitas acara atau brand Anda. Tersedia dalam berbagai bahan dan warna, lanyard ini tahan lama dan nyaman untuk penggunaan sehari-hari.',
     images: [
-      '/detail-service/ikom-unesa.jpg',
-      '/detail-service/ikom-unesa.jpg',
-      '/detail-service/ikom-unesa.jpg',
-      '/detail-service/ikom-unesa.jpg',
-      '/detail-service/ikom-unesa.jpg',
+      '/detail-service/lanyard1.jpg',
+      '/detail-service/lanyard2.jpg',
+      '/detail-service/lanyard3.jpg',
+      '/detail-service/lanyard4.jpg',
+      '/detail-service/lanyard5.png',
     ],
   },
   {
@@ -21,9 +21,9 @@ const SERVICE_DETAILS = [
       '/detail-service/idcard1.jpg',
       '/detail-service/idcard2.jpg',
       '/detail-service/idcard3.jpg',
-      '/detail-service/idcard4.jpg',
-      '/detail-service/idcard5.jpg',
-      '/detail-service/idcard6.jpg',
+      '/detail-service/idcard4.png',
+      '/detail-service/galeri4.jpg',
+      '/detail-service/galeri2.jpeg',
     ],
   },
   {
