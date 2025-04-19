@@ -10,6 +10,7 @@ const SERVICE_DETAILS = [
       '/detail-service/lanyard3.jpg',
       '/detail-service/lanyard4.jpg',
       '/detail-service/lanyard5.png',
+      '/detail-service/lanyard6.jpeg',
     ],
   },
   {
@@ -32,12 +33,12 @@ const SERVICE_DETAILS = [
     description:
       'Tiket gelang kami menggabungkan gaya dan keamanan, ideal untuk acara besar maupun kecil. Dengan desain stylish dan fitur keamanan seperti pengunci sekali pakai, tiket gelang kami memastikan pengalaman acara yang lancar.',
     images: [
-      '/detail-service/tiketgelang1.jpg',
-      '/detail-service/tiketgelang2.jpg',
-      '/detail-service/tiketgelang3.jpg',
-      '/detail-service/tiketgelang4.jpg',
-      '/detail-service/tiketgelang5.jpg',
-      '/detail-service/tiketgelang6.jpg',
+      '/detail-service/tiketgelang1.jpeg',
+      '/detail-service/tiketgelang2.jpeg',
+      '/detail-service/tiketgelang3.jpeg',
+      '/detail-service/tiketgelang4.jpeg',
+      '/detail-service/tiketgelang5.jpeg',
+      '/detail-service/tiketgelang6.jpeg',
     ],
   },
 ]
