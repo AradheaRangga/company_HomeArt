@@ -25,7 +25,7 @@ function Hero() {
                 <span className='inline-flex h-full w-full items-center justify-center rounded-full bg-slate-50 px-3 py-1 text-sm font-medium text-white backdrop-blur-3xl dark:bg-slate-950'>
                   <span className='z-10 flex items-center justify-center gap-1 py-0.5 text-sm'>
                     <AnimatedShinyText className='inline-flex items-center justify-center px-4 py-1 transition ease-out hover:text-neutral-600 hover:duration-300 hover:dark:text-neutral-400'>
-                      ✨ Perkenalkan Home Art Creative
+                      ✨ RAJANYA LANYARD! Home Art Creative
                     </AnimatedShinyText>
                   </span>
                 </span>
@@ -41,8 +41,7 @@ function Hero() {
 
                   <BoxReveal boxColor={'#ff8f38'} duration={0.5}>
                     <p className='text-md relative z-10 max-w-[550px] animate-appear text-center font-medium text-muted-foreground opacity-0 delay-100 sm:text-xl lg:text-start'>
-                      Cool, high-quality lanyard designs tailored to your needs.
-                      Perfect for events, offices, communities, or businesses.
+                    Custom lanyards, wristbands, and ID cards that elevate your brand.
                     </p>
                   </BoxReveal>
                 </div>

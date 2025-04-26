@@ -21,14 +21,17 @@ function OurServices() {
       <AnimationContainer>
         <MaxWidthWrapper className='py-12'>
           <div className='mb-8 flex flex-col items-center justify-center'>
+            <p className='max-w-md mb-5 text-center text-base font-bold leading-relaxed text-muted-foreground'>
+            FROM SURABAYA TO EVERY CORNER OF INDONESIA 
+            </p>
+            <p className='max-w-md mb-5 text-center text-base font-normal leading-relaxed text-muted-foreground'>
+            HOME ART CREATIVE PRODUCES CUSTOM LANYARDS, ID CARDS, WRISTBANDS, & MANY MORE FOR BRANDS, EVENTS,ORGANIZATIONS AND COMPANIES.
+            YOUR DESIGN, YOUR VISION - WE BRING IT TO LIFE, ONE PRODUCT AT A TIME.
+            MADE TO SUPPORT. DESIGNED TO REPRESENT.
+            </p>
             <h2 className='text-dark mb-2 text-[32px] font-bold uppercase dark:text-white sm:text-[40px] lg:text-[36px] xl:text-[40px]'>
               OUR SERVICES
             </h2>
-            <p className='mb-9 max-w-md text-center text-base font-normal leading-relaxed text-muted-foreground'>
-              We don't just sell products—we provide complete solutions for your
-              event identity and branding needs with Fast Production, Best
-              Quality and Affordable Price.
-            </p>
           </div>
           <div className='grid grid-cols-1 gap-8 md:grid-cols-3'>
             <div className='flex flex-col items-center rounded-xl border border-gray-200 p-3.5 text-center transition-all duration-700 ease-in-out hover:border-gray-400'>
@@ -37,8 +40,7 @@ function OurServices() {
                 Lanyard
               </h3>
               <p className='mb-4 text-base font-normal leading-relaxed text-muted-foreground'>
-                Lanyard berkualitas tinggi dengan desain kustom untuk acara dan
-                branding.
+              High-quality lanyards with custom designs for events and branding..
               </p>
               <Button
                 variant='outline'
@@ -54,8 +56,7 @@ function OurServices() {
                 ID Card
               </h3>
               <p className='mb-4 text-base font-normal leading-relaxed text-muted-foreground'>
-                ID card tahan lama dengan cetakan tajam untuk kebutuhan
-                profesional.
+              Durable ID cards with sharp printing for professional needs.
               </p>
               <Button
                 variant='outline'
@@ -68,10 +69,10 @@ function OurServices() {
             <div className='flex flex-col items-center rounded-xl border border-gray-200 p-3.5 text-center transition-all duration-700 ease-in-out hover:border-gray-400'>
               <Omega className='mb-4 h-12 w-12 text-primary' />
               <h3 className='mb-2 font-manrope text-2xl font-bold leading-9 text-gray-900'>
-                Tiket Gelang
+                Wristband Concert
               </h3>
               <p className='mb-4 text-base font-normal leading-relaxed text-muted-foreground'>
-                Tiket gelang stylish dan aman untuk acara besar dan kecil.
+              Stylish and secure wristband tickets for both large and small events.
               </p>
               <Button
                 variant='outline'

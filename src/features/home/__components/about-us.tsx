@@ -26,11 +26,10 @@ function AboutUs() {
                     <h2 className='text-dark mb-6 text-[32px] font-bold uppercase dark:text-white sm:text-[40px] lg:text-[36px] xl:text-[40px]'>
                       THE TALE OF OUR ACHIEVEMENT STORY{' '}
                     </h2>
-                    <p className='mb-9 text-center text-base font-normal leading-relaxed text-muted-foreground lg:text-start'>
-                      Our achievement story is a testament to teamwork and
-                      perseverance. Together, we've overcome challenges,
-                      celebrated victories, and created a narrative of progress
-                      and success.
+                    <p className='text-center text-base font-normal leading-relaxed text-muted-foreground lg:text-start'>
+                    Welcome to Home Art Creative! We're a custom printing company based in Surabaya, offering products like lanyards, ID cards, wristbands, and more.
+                    Our goal is simple: to help you bring your vision to life with high-quality, functional, and stylish products. Whether you're planning an event, representing a student group, or promoting your brand, we’ve got you covered.
+                    We believe that every product we create is more than just an item-it's an opportunity to make a statement, build a brand, and connect with others. Let us help you create something that stands out!
                     </p>
                   </div>
                 </div>
@@ -38,36 +37,36 @@ function AboutUs() {
                   <div className='grid w-full grid-cols-1 items-center justify-start gap-8 md:grid-cols-2'>
                     <div className='inline-flex h-full w-full flex-col items-start justify-start gap-2.5 rounded-xl border border-gray-200 p-3.5 transition-all duration-700 ease-in-out hover:border-gray-400'>
                       <h4 className='font-manrope text-2xl font-bold leading-9 text-gray-900'>
-                        33+ Years
+                        10.000+ Lanyards
                       </h4>
                       <p className='text-base font-normal leading-relaxed text-gray-500'>
-                        Influencing Digital Landscapes Together
+                      10.000+ high-quality lanyards perfect for events, offices, and branding needs.
                       </p>
                     </div>
                     <div className='inline-flex h-full w-full flex-col items-start justify-start gap-2.5 rounded-xl border border-gray-200 p-3.5 transition-all duration-700 ease-in-out hover:border-gray-400'>
                       <h4 className='font-manrope text-2xl font-bold leading-9 text-gray-900'>
-                        125+ Projects
+                        10.000+ ID Cards
                       </h4>
                       <p className='text-base font-normal leading-relaxed text-gray-500'>
-                        Excellence Achieved Through Success
+                      Providing high-quality ID cards for businesses, schools, and events.
                       </p>
                     </div>
                   </div>
                   <div className='grid h-full w-full grid-cols-1 items-center justify-start gap-8 md:grid-cols-2'>
                     <div className='inline-flex w-full flex-col items-start justify-start gap-2.5 rounded-xl border border-gray-200 p-3.5 transition-all duration-700 ease-in-out hover:border-gray-400'>
                       <h4 className='font-manrope text-2xl font-bold leading-9 text-gray-900'>
-                        26+ Awards
+                        5.000+ Concert Wristbands
                       </h4>
                       <p className='text-base font-normal leading-relaxed text-gray-500'>
-                        Our Dedication to Innovation Wins Understanding
+                      5.000+ Concert wristbands designed for security, style, and unforgettable event experiences.
                       </p>
                     </div>
                     <div className='inline-flex h-full w-full flex-col items-start justify-start gap-2.5 rounded-xl border border-gray-200 p-3.5 transition-all duration-700 ease-in-out hover:border-gray-400'>
                       <h4 className='font-manrope text-2xl font-bold leading-9 text-gray-900'>
-                        99% Happy Clients
+                        1.000+ Clients
                       </h4>
                       <p className='text-base font-normal leading-relaxed text-gray-500'>
-                        Mirrors our Focus on Client Satisfaction.
+                      Trusted by 1.000+ clients across industries.
                       </p>
                     </div>
                   </div>

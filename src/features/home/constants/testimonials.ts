@@ -17,12 +17,12 @@ const TESTIMONIALS = [
   {
     title: 'FH UI',
     text: 'Seneng banget bisa order di Home Art Creative! Desain kami dicetak sesuai harapan, hasilnya rapi dan profesional. Ditambah lagi pelayanannya super ramah dan sabar, bikin nyaman selama proses order. Recommended buat yang cari vendor cetak terpercaya! 🙌',
-    img: '/carousel/konferensi internasional.jpg',
+    img: '/carousel/FHUI.jpg',
   },
   {
     title: 'HMTI UNAIR',
     text: 'Panitia dan peserta event kami puas banget dengan hasil lanyard dan ID card dari Home Art Creative. Kualitasnya oke, desain sesuai, dan pengirimannya juga cepat. Terima kasih banyak ya kak! Semoga bisa kerja sama lagi di event berikutnya 😊😉',
-    img: '/carousel/unj.jpg',
+    img: '/carousel/HMTI.jpg',
   },
 ]
 

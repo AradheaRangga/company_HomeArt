@@ -102,9 +102,6 @@ export function DialogDetailService({
           <DialogTitle className='text-dark text-2xl font-bold dark:text-white'>
             {service.name}
           </DialogTitle>
-          <DialogDescription className='text-base leading-relaxed text-muted-foreground'>
-            {service.description}
-          </DialogDescription>
         </DialogHeader>
         <ParallaxScroll images={service.images} />
       </DialogContent>

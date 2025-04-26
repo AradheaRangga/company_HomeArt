@@ -13,9 +13,9 @@ const FOOTER_LINKS = {
     title: 'Terhubung Bersama Kami',
     links: [
       {
-        label: 'Facebook',
+        label: 'tiktok',
         href: 'https://www.tiktok.com/@vendorlanyardsurabaya',
-        icon: '/svgs/icons/facebook.svg',
+        icon: '/svgs/icons/tiktok.svg',
         alt: 'facebook-icon',
       },
       {
