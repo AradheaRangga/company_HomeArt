@@ -43,7 +43,7 @@ const ScrollToAnchor: React.FC<ScrollToAnchorProps> = ({
     <div className='fixed bottom-4 right-4 z-[999] flex flex-col items-center justify-center gap-y-4 lg:bottom-10 lg:right-5'>
       <div className='flex flex-col items-center justify-center gap-y-4'>
         <a
-          href='https://wa.me/62895349470606'
+          href='https://api.whatsapp.com/send?phone=6281938215569&text=Halo%20Home%20Art%20Creative!%20Saya%20ingin%20memesan%20produk%20anda.'
           target='_blank'
           rel='noopener noreferrer'
           aria-label='Contact Us'
