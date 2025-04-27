@@ -6,7 +6,6 @@ import {
   DialogContent,
   DialogHeader,
   DialogTitle,
-  DialogDescription,
 } from '@/components/ui/shadcn/dialog'
 import { SERVICE_DETAILS } from '../constants/service-detail'
 import { ParallaxScrollProps } from '../data/parallax'
